@@ -1,0 +1,8 @@
+.git
+.github
+storage
+build
+build-*
+.vscode
+.idea
+*.md
